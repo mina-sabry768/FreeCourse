@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCourse", "WebCourse\WebCourse.csproj", "{A41E3ADE-365B-468D-B884-CBB5844E8706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domin", "Domin\Domin.csproj", "{29C9E6E9-82BD-4C90-8953-F62772479E68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infarstuructre", "Infarstuructre\Infarstuructre.csproj", "{4CEA4538-04DB-425A-B549-108C36BAD495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A41E3ADE-365B-468D-B884-CBB5844E8706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41E3ADE-365B-468D-B884-CBB5844E8706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41E3ADE-365B-468D-B884-CBB5844E8706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41E3ADE-365B-468D-B884-CBB5844E8706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C9E6E9-82BD-4C90-8953-F62772479E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C9E6E9-82BD-4C90-8953-F62772479E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C9E6E9-82BD-4C90-8953-F62772479E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C9E6E9-82BD-4C90-8953-F62772479E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CEA4538-04DB-425A-B549-108C36BAD495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEA4538-04DB-425A-B549-108C36BAD495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEA4538-04DB-425A-B549-108C36BAD495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEA4538-04DB-425A-B549-108C36BAD495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D09DAC82-4247-42C3-B6BC-9C9BD1EF4655}
+	EndGlobalSection
+EndGlobal
